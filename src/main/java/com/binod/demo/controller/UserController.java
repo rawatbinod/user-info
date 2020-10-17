@@ -19,6 +19,7 @@ import com.binod.demo.service.UserService;
 @RequestMapping("/users")
 @RestController
 @CrossOrigin(origins = "*")
+//this is comment
 public class UserController {
 	
 	@Autowired
